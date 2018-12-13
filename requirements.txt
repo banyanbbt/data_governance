@@ -1,2 +1,5 @@
 pymongo==3.4.0
 jieba==0.39
+numpy==1.15.2
+pandas==0.23.4
+XlsxWriter==1.0.5
